@@ -1,0 +1,14 @@
+# Files symlinked into $HOME by scripts/link.sh.
+# <path in repo>           <path under $HOME>
+
+# zsh / oh-my-zsh
+zsh/.zshrc                 .zshrc
+zsh/.zshenv                .zshenv
+zsh/.zprofile              .zprofile
+
+# starship prompt
+starship/starship.toml     .config/starship.toml
+
+# vim / IdeaVim
+vim/.vimrc                 .vimrc
+vim/.ideavimrc             .ideavimrc

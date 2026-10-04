@@ -29,7 +29,7 @@ map <leader>i <Action>(ToggleBool)
 map <leader>q <Action>(CloseEditor)
 map <leader>k <Action>(QuickJavaDoc)
 map ]e <Action>(GotoNextError)
-map [e <Action>(GotoNextError)
+map [e <Action>(GotoPreviousError)
 map <A-J> <Action>(MoveLineDown)
 map <A-K> <Action>(MoveLineUp)
 
